@@ -1,0 +1,4 @@
+Opening site
+Opening login
+Entering credentials
+Clicking login

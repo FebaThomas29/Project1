@@ -1,0 +1,10 @@
+Opening site
+Opening login
+Entering credentials
+Clicking login
+Waiting for welcome text
+Login success
+Adding product
+Opening cart
+Clicking place order
+Filling fields
